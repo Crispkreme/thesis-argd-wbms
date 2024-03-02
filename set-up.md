@@ -9,3 +9,6 @@ WARNING: Running pip as the 'root' user can result in broken permissions and con
 - source venv/bin/activate
 - pip3 install Adafruit_DHT
 - deactivate
+
+## Sources
+https://pypi.org/project/adafruit-circuitpython-dht/
